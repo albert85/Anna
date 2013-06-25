@@ -11,11 +11,9 @@ header {
 aside {
 	text-align: left;
 	margin-bottom: 7px;
-	
-
 }
 footer {
-	margin-top:15px;
+	margin-top: 15px;
 	bottom: 10px;
 	text-align: center;
 }
@@ -24,29 +22,34 @@ footer {
 	width: 1100px;
 	height: 850px;
 	background-color: #fff;
+	-webkit-border-top-right-radius: 59px;
+	-moz-border-radius-topright: 59px;
+	border-top-right-radius: 59px;
 }
 
-.navButton{
+.navButton {
 	margin-right: 10px;
 	font-family: "Agency FB";
-	font-size:20px;
-	font-weight:500;
-	color:white;
+	font-size: 20px;
+	font-weight: 500;
+	color: white;
 	text-align: left;
-	
-	 
-	
 }
-#wrapper{
+#wrapper {
 	width: 1100px;
 	height: 920px;
 	text-align: center;
 }
 
-.roundbutton{
-	width: 20px;
-	height: 20px;
-	border-radius:100%;
-	vertical-align: middle; 
+.roundbutton {
+	width: 17px;
+	height: 17px;
+	border-radius: 100%;
+	vertical-align: middle;
 	margin-right: 5px;
+}
+
+#homePic {
+	vertical-align: middle;
+	margin-left: 150px;
 }
